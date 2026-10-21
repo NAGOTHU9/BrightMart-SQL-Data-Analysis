@@ -1,2 +1,7 @@
-# BrightMart-SQL-Data-Analysis
-This project focuses on analyzing BrightMart retail business data using Microsoft SQL Server (SSMS). The project involves data cleaning, data validation, SQL querying, and creating views to organize data and simplify business reporting.
+# Screenshots
+
+Add before / after screenshots here and reference them in the SQL README. Suggested names:
+
+- `01_invalidsales.png`
+- `02_null_manager_id.png`
+- `03_customers_duplicates_after.png`
